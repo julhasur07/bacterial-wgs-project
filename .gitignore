@@ -1,0 +1,8 @@
+data/
+reference/
+trimmed/
+alignment/
+variants/
+qc/
+results/coverage.tsv 
+.ipynb_checkpoints/

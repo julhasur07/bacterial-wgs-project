@@ -1,0 +1,5 @@
+6e9102cf7dba2861fda87028504d3a4c  data/raw/mutant_R1.fastq
+acd2393322e3cc7d306c4d01eeddf957  data/raw/mutant_R2.fastq
+80fe318fdf4cdd0fee4a244f520a0c54  reference/wildtype.fna
+8d8bc40a25fb7ce700abc7c34decadd0  reference/wildtype.gbk
+b175fe7ba1400f1f6e60465e60b8132b  reference/wildtype.gff
